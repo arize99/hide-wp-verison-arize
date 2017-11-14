@@ -53,7 +53,6 @@ You can do that - but when you update or change your theme, it will be removed (
 ** Plugin Support **
 
 create an issue if you need support
-https://github.com/arize99/hide-wp-version
 
 ** Changelog **
 
