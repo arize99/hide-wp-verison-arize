@@ -1,14 +1,23 @@
 # hide-wp-verison
 Hide the version your WordPress to increase security. Hackers like fruits hanging low on the tree branch, so make it more difficult for them by removing   your version info.
+
 === Hide WP Version ===
+
 Contributors: Arize	
+
 Plugin Name: Hide WP Version
+
 Tags: hide wp version, remove wp version, delete wp version, hide, wordpress version, wordpress, wp version
 Author: Arize
+
 Donate link: 1NNrQ2NKZrtuR7GpGT8wJWz1ztawYxW3aa
+
 Requires at least: 3.0
+
 Tested up to: 4.8.3
+
 Stable tag: 1.0
+
 
 ** Description **
 
