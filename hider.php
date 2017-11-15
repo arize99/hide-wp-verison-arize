@@ -3,7 +3,7 @@
 Plugin Name: Hide WP Version
 Plugin URI: https://github.com/arize99/hide-wp-version
 Description: Hide the version your WordPress to increase security. Hackers like fruits hanging low on the tree branch, so make it more difficult for them by removing your version info.
-Author: Ashkar
+Author: Arize
 Author URI: http://hidira.com/arize
 Version: 1.0
 */
